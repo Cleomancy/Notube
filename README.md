@@ -1,2 +1,6 @@
 # Notube
-Gets your youtube playlist and plays them from mpv
+Very simple for now. It'll get cooler.
+
+# Prerequisites
+
+yt-dlp and mpv
